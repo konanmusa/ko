@@ -1,3 +1,5 @@
+وقفتها لانو مايكي طلب مني اوقفها العايز يشترك يراسلو خاص 🫶
+
 # DeCoDe By @V_VZ_VZ
 import webbrowser
 na = webbrowser.open('https://t.me/hkeraldola')
